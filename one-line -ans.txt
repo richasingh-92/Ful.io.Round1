@@ -1,0 +1,29 @@
+A. What is reverse-i-search in a Linux terminal?
+
+ans : Reverse-i search allows you to search for a specific string in your order history. This can save you time and effort, especially if you know part of the command you want to repeat but can't remember the exact syntax. 
+
+B. How do you list out the hidden directories using Linux command line tool?
+
+ans : To show hidden files, you must use the -a option. This tells the ls command to list "all" files and directories, including those that are hidden, i.e. those that start with a dot (.). 
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+
+ans: Having knowledge Very Light OS, which can be installed on any machine with a Low CPU and Memory Machine, Has an excellent Community to build it better, and mainly all the languages are supported worldwide. It is far better than Windows OS.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+
+
+ans: Yes i used server to host web application like...
+     
+Database Servers
+
+MySQL: An open-source relational database management system.
+PostgreSQL: Another powerful open-source relational database system known for its advanced features and extensibility.
+
+Application Servers
+
+Node.js: A JavaScript runtime used to build scalable and fast network applications.
+
+Web Servers:
+
+Apache HTTP Server (Apache): A widely used open-source web server software that supports various features like virtual hosting, SSL, and URL rewriting.
